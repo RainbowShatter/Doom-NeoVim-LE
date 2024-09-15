@@ -77,7 +77,9 @@ See [`CONTRIBUTING`](/CONTRIBUTING.md) for ways to get started.
 
 ## Credits
 
-Credits to LazyVim for inspiration on a powerful config like this one
+Credits to [LazyVim], [Vimacs] and [doom-nvim] for inspiration on a powerful config like this one
+
+
 
 ## License
 
