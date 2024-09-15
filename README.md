@@ -27,7 +27,10 @@ Awesome Default Plugins!
  > Basic, Fast, Popular and Easy to use deafult plugins for all of you programming needs
 >
 Games and cool Fun stuff!
- > you can now procastinate with ease using all cool games inside Neovim
+ > You can now procastinate with ease using all cool games inside Neovim
+
+Easy Integration
+ > Easily switch between services such as Godot or Obsidian to Neovim in a cool seamless way
 
 ## Requirements
 
