@@ -1,5 +1,6 @@
-# Doom-NeoVim-LE
-Doom Neovim Lazy Edition - Featuwufuwed and Intuitive as Intended UwU!
+# Doom-Neovim-LE - A Config Inspired by [doom-nvim]. 
+
+[doom-nvim] 
 
 ## Table of Contents: 
 
@@ -10,11 +11,9 @@ Doom Neovim Lazy Edition - Featuwufuwed and Intuitive as Intended UwU!
   - [Requirements](#-requirements)
   - [Installation](#-installation)
   - [Configuration](#-configuration)
-  - [Usage](#-usage)
   - [Commands](#-commands)
   - [Contributing](#-contributing)
   - [Credits](#-credits)
-  - [Say Thanks](#-say-thanks)
   - [License](#-license)
   <!--toc:end-->
 
@@ -29,7 +28,7 @@ Awesome Default Plugins!
 Games and cool Fun stuff!
  > You can now procastinate with ease using all cool games inside Neovim
 
-Easy Integration
+Easy Integration! 
  > Easily switch between services such as Godot or Obsidian to Neovim in a cool seamless way
 
 ## Requirements
