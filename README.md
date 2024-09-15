@@ -1,6 +1,6 @@
-# Doom-Neovim-LE - A Config Inspired by [doom-nvim]. 
+# Doom-Neovim-LE - A Config Inspired by doom-nvim. 
 
-[doom-nvim](https://github.com/doom-neovim/doom-nvim) 
+More info about [doom-nvim](https://github.com/doom-neovim/doom-nvim) 
 
 ## Table of Contents: 
 
