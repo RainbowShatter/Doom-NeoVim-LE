@@ -7,7 +7,7 @@ More info about [doom-nvim](https://github.com/doom-neovim/doom-nvim)
 <!--toc:start-->
 - [Doom Neovim Lazy Edition](#Doom-NeoVim-LE)
   - [Table of Contents](#-table-of-contents)
-  - [Features](#-features)
+  - [Features](## Features)
   - [Requirements](#-requirements)
   - [Installation](#-installation)
   - [Configuration](#-configuration)
