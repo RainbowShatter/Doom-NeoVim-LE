@@ -41,7 +41,7 @@ p.s. If you are new and never configured Neovim before than you can skip this se
 ## Installation 
 
 First of all, clone the repository using th following command:
-```git clone https://github.com/RainbowShatter/Doom-neovim-LE.git ~/.config/```
+```git clone https://github.com/RainbowShatter/Doom-neovim-LE.git ~/.config/nvim```
 
 Now remove the `.git`
 ```rm -rf ~/.config/nvim/.git```
