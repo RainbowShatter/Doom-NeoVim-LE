@@ -50,19 +50,10 @@ Then after it has been cloned you can now start Neovim with the ```nvim``` comma
 
 ## Configuration
 
-To Install/Uninstall Plugins you need to see what category the plugin you want to install, then install it in one 
-of the following:
+To Install/Uninstall Plugins you need to delete their file, and because each file has it's own plugin and configuration
+this means that it is one of the most easiest ways to manage your plugins
 
-```
-fun-n-games.lua          -- basically some thing to make you entertained;
-integration.lua          -- any integration plugin designed to combine Neovim to anything is availible here;
-language-servers.lua     -- any plugin related to [Mason]
-tools.lua                -- has a very, very specific funtionality;
-themes.lua               -- every installed theme you may have is availible here;
-user-experience.lua      -- affects the functionality and how it feels to use Neovim;
-
-[Mason]: https://github.com/williamboman/mason.nvim
-```
+-- img
 
 You can configure each component by linking the files to specific locations too, although I forgot how to do it.
 
