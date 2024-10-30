@@ -37,7 +37,7 @@ If you already have a ```.config/nvim``` folder, it is recommended you make a ba
 e.g. rename it to ```.config/nvim.backup``` 
 
 You will need the Github-CLI tool and the w3m package, for navigating through github on NeoVim and browsing
-the web
+the web, ripgrep, and npm
 
 p.s. If you are new and never configured Neovim before than you can skip this section
 
